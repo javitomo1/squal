@@ -170,7 +170,7 @@ mostrarPagina(pagina) // Sin esta línea no arranca XD, esta es la llamada de la
 
 /* 
 
-Al principio me parecia un coñazo hacer el html y css por js, pero al final me ha acabado gustando, supongo que cada metodo tiene su utilidad.
+Al principio me parecía un coñazo hacer el html y css por js, pero al final me ha acabado gustando, supongo que cada método tiene su utilidad.
 
 */
 
