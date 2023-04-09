@@ -57,7 +57,7 @@ const extraDivContainer = document.createElement('div')
 // Div "nº1" en extraDivContainer
 //Creo div para botones de pasar página y una etiqueta p que muestra la página actual
 const btnDiv1 = document.createElement('div')
-//btnDiv CSS
+//btnDiv CSS, no uso diminutivo ._.
 btnDiv1.style.margin = '10px'
 btnDiv1.style.display = 'flex'
 btnDiv1.style.justifyContent = 'center'
